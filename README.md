@@ -33,3 +33,18 @@ git remote add origin https://github.com/tharwai/mlbtest.git
 ```
 git push -u origin main
 ```
+
+
+# For existing repo --- code push
+```
+git pull origin main
+```
+```
+git add .
+```
+```
+git commit -m "3rd Commit"
+```
+```
+git push origin main
+```
